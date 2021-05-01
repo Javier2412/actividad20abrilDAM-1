@@ -6,7 +6,8 @@ public class Calculadora {
 	
 	public static void main(String[] args) {
 		
-		int repetir=0;	int i=0;
+		int repetir=0;	
+		int i=0;
 		Scanner entrada = new Scanner (System.in);
 		
 		do {
